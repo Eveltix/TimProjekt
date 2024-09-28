@@ -2,8 +2,9 @@
 footer{
 display: flex;
 background: rgba(0, 0, 0, 0.74);
-padding-top: 77px;
-padding-bottom: 77px;
+padding-top: 30px;
+padding-bottom: 30px;
+margin-top: 20px;
 }
 footer a{
 

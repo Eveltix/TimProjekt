@@ -1,1 +1,19 @@
-Стили CSS
+.box {
+    display: flex;
+    justify-content: center;
+}
+.item {
+    text-align: center;
+    width: 400px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    color: antiquewhite;
+}
+body {
+    background: url("./fonstola.ru_136149\ 1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
